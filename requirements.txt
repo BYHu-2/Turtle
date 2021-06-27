@@ -1,0 +1,4 @@
+​ QtAwesome >= 1.0.1
+​ pyqt >=5.9.2
+​ numpy>=1.19.2
+​ matplotlib>= 3.3.2
